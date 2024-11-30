@@ -1,4 +1,4 @@
-#   Easy Trash
+# Gestão de Resídos Easy Trash
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
